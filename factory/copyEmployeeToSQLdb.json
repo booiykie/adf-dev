@@ -1,0 +1,9 @@
+{
+	"name": "copyEmployeeToSQLdb",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f29f8f59-deb2-420e-8b9d-07238671dd54",
+		"tenantId": "4b1b908c-5582-4377-ba07-a36d65e34934"
+	}
+}

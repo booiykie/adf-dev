@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_cj8",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "EmployeesSQLConection",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "employees"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
